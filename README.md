@@ -31,4 +31,5 @@ Order Date & Time
 Conclusion: 
 This analysis provides valuable insights that businesses can use to optimize marketing strategies, product placement, and sales forecasting.
 
-If you found this project helpful, feel free to ⭐ star this repository and connect with me on LinkedIn!
+If you found this project helpful, feel free to ⭐ star this repository and connect with me on [LinkedIn](https://www.linkedin.com/in/chaubey-utkarsh/)
+!
