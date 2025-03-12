@@ -1,2 +1,1 @@
-# Sales-Analysis
-Analysis of 12 months sales data
+ # Sales Data Analysis (12 Month Dataset)
