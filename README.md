@@ -5,10 +5,10 @@ This project analyzes a 12-month sales dataset to extract key business insights 
 
 Key Insights:
 
-✅ Best Month for Sales – Identified the highest revenue-generating month.
+✅ Best Month for Sales – Identified the highest revenue-generating month. 
 ✅ Top-Selling City – Determined the city with the most product sales.
-✅ Best Time to Display Ads – Found the optimal time slots for marketing.
-✅ Most Sold Products – Analyzed which products had the highest demand.
+✅ Best Time to Display Ads – Found the optimal time slots for marketing. 
+✅ Most Sold Products – Analyzed which products had the highest demand. 
 ✅ Products Often Bought Together – Discovered frequently purchased product combinations.
 
 Technologies Used:
